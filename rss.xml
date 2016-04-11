@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[zeroinfinity]]></title>
+        <description><![CDATA[zeroinfinity]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 20:16:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Body composition]]></title>
+            <description><![CDATA[<article><h1>Body composition</h1><p>In physical fitness, body composition is used to describe the percentages of fat, bone, water and muscle in human bodies. Because muscular tissue takes up less space in our body than fat tissue, our body composition, as well as our weight, determines leanness.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f759c4fc97cdc11f5635fdf71984357028fd6dd.jpg"></article>]]></description>
+            <link>https://en.m.wikipedia.org/wiki/Body_composition</link>
+            <guid isPermaLink="false">095f087d-61bf-48f1-a52a-14ced976412c</guid>
+            <pubDate>Mon, 11 Apr 2016 20:16:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
