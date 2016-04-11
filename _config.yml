@@ -1,8 +1,20 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.7319149
 color:
   saturation: 0.05648096
+  brandStrength: 0
   lightness: 0.2021277
-  brandStrength: 0.8978723
   brandColors:
     - '#2F2E2E'
     - '#BEABC6'
@@ -10,5 +22,5 @@ color:
     - '#9B88A3'
     - '#766F38'
   rhythmicContrast: 0.08455189
-typography_spectrum: 0.7319149
+layout_spectrum: 1
 name: zeroinfinity
