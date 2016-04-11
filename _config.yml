@@ -12,15 +12,15 @@ collections:
       number: 10
 typography_spectrum: 0.7319149
 color:
-  saturation: 0.05648096
+  saturation: 0
   brandStrength: 0
-  lightness: 0.2021277
+  lightness: 0.4382979
   brandColors:
-    - '#2F2E2E'
-    - '#BEABC6'
-    - '#544B5B'
-    - '#9B88A3'
-    - '#766F38'
-  rhythmicContrast: 0.08455189
+    - '#3B3939'
+    - '#ECECEF'
+    - '#BC9B65'
+    - '#D7BD91'
+    - '#A06505'
+  rhythmicContrast: 0.887234
 layout_spectrum: 1
 name: zeroinfinity
