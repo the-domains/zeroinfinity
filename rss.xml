@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[zeroinfinity]]></title>
         <description><![CDATA[zeroinfinity]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zeroinfinity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 20:16:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 20:19:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zeroinfinity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Safe House]]></title>
+            <description><![CDATA[<article><h1>Safe House</h1><p>Listen to track in TIDAL - Lil Uzi Vert: Safe House</p><img src="http://resources.wimpmusic.com/images/bda4dd07/4984/46e9/a5fa/2d684fdebd61/640x640.jpg"></article>]]></description>
+            <link>https://tidal.com/track/55181385</link>
+            <guid isPermaLink="false">64f038f6-3cfc-426e-badd-57624e38730f</guid>
+            <pubDate>Mon, 11 Apr 2016 20:17:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Body composition]]></title>
             <description><![CDATA[<article><h1>Body composition</h1><p>In physical fitness, body composition is used to describe the percentages of fat, bone, water and muscle in human bodies. Because muscular tissue takes up less space in our body than fat tissue, our body composition, as well as our weight, determines leanness.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f759c4fc97cdc11f5635fdf71984357028fd6dd.jpg"></article>]]></description>
