@@ -10,17 +10,16 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.7319149
 color:
   saturation: 0
   brandStrength: 0
   lightness: 0.4382979
   brandColors:
-    - '#3B3939'
-    - '#ECECEF'
-    - '#BC9B65'
-    - '#D7BD91'
-    - '#A06505'
+    - '#303030'
+    - '#FBFBFB'
+    - '#CFCFCF'
+    - '#9A9A9A'
   rhythmicContrast: 0.887234
+typography_spectrum: 0.7319149
 layout_spectrum: 1
 name: zeroinfinity
