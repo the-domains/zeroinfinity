@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.05648096
+  lightness: 0.2021277
+  brandStrength: 0.8978723
+  brandColors:
+    - '#2F2E2E'
+    - '#BEABC6'
+    - '#544B5B'
+    - '#9B88A3'
+    - '#766F38'
+  rhythmicContrast: 0.08455189
+typography_spectrum: 0.7319149
+name: zeroinfinity
